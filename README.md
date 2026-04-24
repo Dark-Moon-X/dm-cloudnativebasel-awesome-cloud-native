@@ -176,6 +176,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 - [Loki](https://grafana.com/oss/loki/) - Horizontally-scalable, highly-available, multi-tenant log aggregation system inspired by Prometheus.
 - [Tempo](https://grafana.com/oss/tempo/) - Cost-effective, high-volume tracing system.
 - [Tetragon](https://github.com/cilium/tetragon) - Part of Cilium - Cilium’s new Tetragon component enables powerful realtime, eBPF-based Security Observability and Runtime Enforcement.
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with real-time cloud native observability and 20+ CNCF integrations. CNCF Sandbox project.
 
 ## Cloud-Native Web Frameworks and Languages
 
