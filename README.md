@@ -160,6 +160,7 @@ A curated list of awesome resources around the Cloud Native landscape. ⭐
 
 - [Falco](https://falco.org/) - Open source cloud native runtime security project.
 - [Open Policy Agent](https://www.openpolicyagent.org/) - General-purpose policy engine.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [KubeLinter](https://github.com/stackrox/kube-linter) - Static analysis tool checking Kubernetes YAML files and Helm charts for misconfigurations.
 - [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security.
 - [SPIFFE](https://spiffe.io/) - Secure identity framework for production infrastructure.
